@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+#Biuld directories
+/.idea
+/cmake-build-debug
+/cmake-build-release
+
+#Test libraries
+/googletest-master
+
+#Meshes
+/GMSHMeshes
+/PrepearedMeshes
+
